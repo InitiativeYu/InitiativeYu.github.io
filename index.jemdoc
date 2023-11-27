@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Intelligent sensing and decision-making lab
+
+
+Intelligent sensing and decision-making lab is directed by Prof. Wen-An Zhang and Prof. Andong Liu at the Department of Control science and Engineering, College of Information Engineering, 
+Zhejiang University of Technology. We focus on intelligent sensing, control and learning for autonomous systems. Current research interests contain information fusing, predictive control, 
+robotic control and learning algorithms.
+
+~~~
+{}{img_left}{photos/bio4.jpeg}{alt text}{652px}{420px}
+
+~~~
+
+== News
+
+~~~
+- \[2022.02\]Our paper “Constrained Variable Impedance Control using Quadratic Programming” was accepted by ICRA! 
+- \[2022.02\]Our paper “Policy-Based Deep Reinforcement Learning for Visual Servoing Control of Mobile Robots With Visibility Constraints” was published in IEEE Transactions on Industrial Electronics! 
+- \[2022.03\]Our paper “A Learning Based Hierarchical Control Framework for Human-Robot Collaboration” was accepted by IEEE Transactions on Automation Science and Engineering! 
+- \[2022.04\]Our paper “An Optimal Variable Impedance Control With Consideration of the Stability” was published in IEEE Robotics and Automation Letters! 
+- \[2022.05\]Our paper “Learning From Human Demonstrations for Wheel Mobile Manipulator: An Unscented Model Predictive Control Approach” was accepted by IEEE Transactions on Neural Networks and Learning Systems! 
+- \[2022.05\]Doctor Zhehao Jin gave a presentation at Pre-ICRA 2022. 
+- \[2022.06\]Our paper “Synchronization Tracking Control of Networked Multi-Axis Motion Systems: A Cooperative Distributed Model Predictive Control Approach” was accepted by Control Engineering Practice! 
+- \[2022.07\]Our paper “Cooperation and Coordination Transportation for Nonholonomic Mobile Manipulators: A Distributed Model Predictive Control Approach” was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems! 
+- \[2022.08\]Our paper “A hybrid deep-Q-network and model predictive control for point stabilization of visual servoing systems” was accepted by Control Engineering Practice! 
+- \[2022.08\]Our paper “Fuzzy Variable Impedance-Based Adaptive Neural Network Control in Physical Human-Robot Interaction” was accepted by Journal of Systems and Control Engineering! 
+- \[2022.09\]Our paper “Model Predictive Variable Impedance Control of Manipulators for Adaptive Precision-compliance Trade-off” was accepted by IEEE/ASME Transactions on Mechatronics! 
+- \[2022.09\]Our paper “External force estimation of the industrial robot based on the error probability model and SWVAKF” was accepted by IEEE Transactions on Instrumentation & Measurement! 
+
+
+~~~
+
+== Contact
+Address: Room C104, Information Engineering Building, Zhejiang University of Technology, 288 Liuhe Rd, Xihu District, Hangzhou, China.\n\n
+E-mail: wazhang@zjut.edu.cn, lad@zjut.edu.cn
+
